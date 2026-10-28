@@ -1,3 +1,12 @@
+> ## 🔒 Security research by quexenbp (fork note)
+>
+> This fork was used for security research on the Bruno desktop app (October 2026).
+>
+> - **3 security issues** were found, confirmed in an isolated offline test environment, and fixed with regression tests.
+> - All three have been **reported privately** to the Bruno team, following the [security policy](security.md).
+> - Technical details and code are **withheld** until the Bruno team releases a fix.
+> - Also contributed: [usebruno/bruno#9691](https://github.com/usebruno/bruno/pull/9691), a fix for workspace import validation.
+
 <br />
 <img src="assets/images/logo-transparent.png" width="80"/>
 
